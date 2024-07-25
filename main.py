@@ -117,7 +117,7 @@ async def queue(ctx, arg):
 async def commands(ctx): 
     await ctx.send("!join, !leave, !queue, !play, !stop, !pause")   
     
-client.run('MTIzMzg3NjI5NjM1MDgyNjU2Nw.GygiLN.CwPikZ2SJC4sJvyK9VmqV9L8zn6miRBWfQCfrQ')
+client.run('YOUR TOKEN')
 
 
 
